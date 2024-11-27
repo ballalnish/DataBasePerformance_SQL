@@ -1,0 +1,61 @@
+﻿app_id,app_name,app_type,server_id,status
+A01,Web_App1,Development Environment,49,Active
+A02,Test_Suite,Web Server,52,Inactive
+A03,Backup_Tool,Testing Tool,10,Inactive
+A04,Dev_App1,Database Management System,25,Active
+A05,Analytics,Monitoring Tool,50,Active
+A06,Web_App2,Backup Utility,23,Inactive
+A07,Dev_App2,Development Environment,24,Inactive
+A08,Data_Analyzer,Database Management System,50,Inactive
+A09,Log_Viewer,Web Server,42,Active
+A10,Workflow_Manager,Database Management System,14,Active
+A11,Monitoring_Tool,Development Environment,35,Active
+A12,Config_Manager,Backup Utility,20,Inactive
+A13,API_Gateway,Monitoring Tool,45,Active
+A14,DevOps_Dashboard,Monitoring Tool,56,Active
+A15,Cloud_Service1,Development Environment,20,Active
+A16,Network_Monitor,Backup Utility,26,Active
+A17,Error_Tracker,Backup Utility,33,Active
+A18,Security_Scanner,Web Server,25,Inactive
+A19,Patch_Manager,Web Server,1,Inactive
+A20,Load_Balancer,Web Server,9,Active
+A21,Database_Admin,Development Environment,11,Active
+A22,File_Sync_Tool,Backup Utility,48,Inactive
+A23,User_Portal,Monitoring Tool,24,Active
+A24,System_Health,Database Management System,30,Inactive
+A25,Performance_Monitor,Backup Utility,2,Inactive
+A26,Incident_Manager,Development Environment,26,Inactive
+A27,Test_Automator,Monitoring Tool,37,Active
+A28,Version_Control,Testing Tool,1,Inactive
+A29,Build_Agent,Database Management System,6,Inactive
+A30,App_Installer,Web Server,15,Inactive
+A31,Debug_Tool,Testing Tool,15,Active
+A32,Log_Collector,Backup Utility,43,Inactive
+A33,Task_Orchestrator,Monitoring Tool,20,Active
+A34,Alert_Manager,Testing Tool,52,Active
+A35,Sandbox_Env,Testing Tool,42,Active
+A36,Queue_Manager,Database Management System,47,Active
+A37,Backup_Service,Testing Tool,25,Active
+A38,Deployment_Tool,Monitoring Tool,13,Active
+A39,Resource_Tracker,Database Management System,41,Inactive
+A40,API_Test_Tool,Development Environment,54,Active
+A41,Mobile_App1,Database Management System,58,Inactive
+A42,Mobile_App2,Testing Tool,32,Inactive
+A43,Web_App3,Backup Utility,52,Active
+A44,Integration_Tool,Monitoring Tool,54,Inactive
+A45,Workflow_Automator,Database Management System,54,Active
+A46,Data_Backup_Tool,Testing Tool,22,Active
+A47,Auth_Service,Testing Tool,55,Inactive
+A48,Data_Lake_Tool,Web Server,54,Active
+A49,Resource_Manager,Development Environment,5,Inactive
+A50,Database_Tool1,Web Server,47,Active
+A51,App_Testing_Tool,Development Environment,43,Active
+A52,Debug_Service,Backup Utility,55,Inactive
+A53,Log_Analyzer,Testing Tool,47,Inactive
+A54,Network_Admin,Development Environment,55,Inactive
+A55,Config_Sync_Tool,Database Management System,20,Inactive
+A56,Load_Test_Tool,Web Server,20,Active
+A57,API_Monitor,Web Server,31,Inactive
+A58,Data_Visualizer,Backup Utility,10,Inactive
+A59,Key_Management_Tool,Monitoring Tool,29,Inactive
+A60,Dev_Toolkit,Monitoring Tool,5,Active
